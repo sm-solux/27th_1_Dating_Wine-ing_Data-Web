@@ -84,7 +84,8 @@ MySQL DB 생성 & 연동 / 전체 로그인 기능 / 와인 설문 조사 서버
 
 ### 🍷 와인추천받기
 크롤링을 통해 얻어온 와인 데이터 중 wine_type(와인종류), Alcohol_content(알콜 농도),  Light_Bold(바디), Smooth_Tannic(탄닌), Soft_Acidic(산도), Dry_Sweet(당도), kprice(가격), Pairings(함께 먹을 음식)을 기준으로 유클리드 유사도와 가중치 조절을  선호하는 와인을 찾아주는 서비스입니다.</br>
-![image](https://user-images.githubusercontent.com/90396746/185293743-5834d5fb-298a-4240-ae7d-1db6d71d9ea9.png)</br>
+![image](https://user-images.githubusercontent.com/90396746/185294810-61b4c455-7f0b-4e1e-9e14-2eb45bb0ddeb.png)
+</br>
 ![image](https://user-images.githubusercontent.com/90396746/185293765-dc9abbb1-e9cf-4378-95c2-ddc969222881.png)</br>
 
 
